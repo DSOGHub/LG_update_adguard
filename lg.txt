@@ -1,0 +1,14 @@
+||aic.rdl.lgtvcommon.com^
+||aic.recommend.lgtvcommon.com^
+||cdpbeacon.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||lgsmartad.com^
+||lgtvonline.lge.com^
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||service.lgtvcommon.com^
+||snu.lge.com^
+||ueiwsp.com^
+||us.lgtvsdp.com^
